@@ -1,0 +1,35 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+.container {
+  height: 90vh;
+  margin: 0rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.cell {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  padding: 4rem;
+}
+.cell-1 {
+  background: deepskyblue;
+}
+.cell-2 {
+  background: orangered;
+}
+.cell-3 {
+  background: royalblue;
+}
+.cell-4 {
+  background: gold;
+}
+
+button {
+  border: 0px solid #c4c4c4;
+  font-size: 2rem;
+  margin: 0;
+}
