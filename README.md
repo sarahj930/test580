@@ -1,5 +1,7 @@
 # COMP-580-Project
 
+# Demo link: (will be here when completed)
+
 ## Who is it for?
 Visually impaired kids (primarily geared towards pre-K math skills but can be fun for all ages!) 
 
