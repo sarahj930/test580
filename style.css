@@ -9,6 +9,14 @@ body {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
 }
+
+.menu_container {
+  height: 180vh;
+  margin: 0rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
 .cell {
   color: white;
   font-size: 3rem;
