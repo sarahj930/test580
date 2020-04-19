@@ -289,7 +289,6 @@ $(document).ready(() => {
     if (lookingFor) {
       if (lookingFor1 == true) {
         setTimeout(goodJob, 2000)
-        // window.speechSynthesis.speak(new SpeechSynthesisUtterance("Good job!"))
         console.log("Good job!")
         setTimeout(playGame, 2000);
       } else {
@@ -319,8 +318,6 @@ $(document).ready(() => {
     if (lookingFor) {
       if (lookingFor2) {
         setTimeout(goodJob, 2000)
-
-        // window.speechSynthesis.speak(new SpeechSynthesisUtterance("Good job!"))
         console.log("Good job!")
         setTimeout(playGame, 2000);
       } else {
@@ -346,8 +343,6 @@ $(document).ready(() => {
     if (lookingFor) {
       if (lookingFor3) {
         setTimeout(goodJob, 2000)
-
-        // window.speechSynthesis.speak(new SpeechSynthesisUtterance("Good job!"))
         console.log("Good job!")
         setTimeout(playGame, 2000)
       } else {
@@ -373,8 +368,6 @@ $(document).ready(() => {
     if (lookingFor) {
       if (lookingfor4) {
         setTimeout(goodJob, 2000)
-
-        // window.speechSynthesis.speak(new SpeechSynthesisUtterance("Good job!"))
         console.log("Good job!")
         setTimeout(playGame, 2000)
       } else {
